@@ -1,0 +1,19 @@
+.list{
+  list-style: none;
+  padding: 0;
+  justify-content: space-between;
+}
+
+.item {
+  margin: 20px;
+  border: 2px solid #000;
+  width: 284px;
+  text-align: center;
+  background: linear-gradient(45deg, blue, purple, orange, red);
+  color: #fff;
+}
+
+.type{
+  border: 1px solid #000;
+  display: inline-block;
+}
